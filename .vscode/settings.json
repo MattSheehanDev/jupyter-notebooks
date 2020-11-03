@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "/usr/local/Caskroom/miniconda/base/envs/housing/bin/python",
+    "python.linting.enabled": true
+}
