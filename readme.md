@@ -1,3 +1,6 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MattSheehanDev/jupyter-notebooks/HEAD)
+
+
 ```py
 # update conda
 conda update -n base -c defaults conda
