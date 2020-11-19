@@ -1,3 +1,6 @@
+Jupyter Notebooks and Python
+===================================================
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MattSheehanDev/jupyter-notebooks/HEAD)
 
 
@@ -7,8 +10,6 @@ conda update -n base -c defaults conda
 
 # create new env
 conda create -n name_of_my_env python
-# location
-environment location: /usr/local/Caskroom/miniconda/base/envs/name_of_my_env
 # activate
 conda activate name_of_my_env
 # deactivate
@@ -18,7 +19,7 @@ conda deactivate
 ```py
 conda config --add channels conda-forge
 
-conda install panda
+conda install pandas
 conda install ipykernel
 conda install matplotlib
 
