@@ -1,13 +1,17 @@
 Jupyter Notebooks and Python
 ===================================================
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MattSheehanDev/jupyter-notebooks/HEAD)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/MattSheehanDev/jupyter-notebooks-python/HEAD)
+
+
+Setup
+---------------------------------------
+
+Download and Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
+
 
 
 ```py
-# update conda
-conda update -n base -c defaults conda
-
 # create new env
 conda create -n name_of_my_env python
 # activate
