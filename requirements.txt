@@ -1,4 +1,0 @@
-pandas==1.1.4
-ipykernel==5.3.4
-matplotlib==3.3.3
-py-opencv==4.5.0
