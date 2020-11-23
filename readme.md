@@ -9,26 +9,8 @@ Setup
 
 Download and Install [Miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
-
-
-```py
-# create new env
-conda create -n name_of_my_env python
-# activate
-conda activate name_of_my_env
-# deactivate
-conda deactivate
 ```
-
-```py
-conda config --add channels conda-forge
-
-conda install pandas
-conda install ipykernel
-conda install matplotlib
-
-# OpenCV
-conda install open
+conda env create -f environment.yml
 ```
 
 ```py
